@@ -33,3 +33,53 @@ Covid19_Capstone_Project/
 ├── README.md # This file
 └── data/ Folder for raw and cleaned datasets
 
+
+---
+
+## 📊 Technologies Used
+
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Jupyter Notebook
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repo  
+   `git clone https://github.com/aditi120/Covid19_Capstone_Project.git`
+
+2. Install dependencies  
+
+3. Open the notebook  
+   `jupyter notebook Covid19_Capstone_Project.ipynb`
+
+---
+
+## 📌 Sample Visuals
+
+> 
+
+---
+
+## 🧠 Lessons Learned
+
+- Improved data wrangling skills with real-world datasets.
+- Understood the importance of clear visualization during global crises.
+- Practiced end-to-end EDA workflows using Python.
+
+---
+
+## 📬 Contact
+
+**Aditi Rawat**  
+[LinkedIn](https://www.linkedin.com/in/aditirawat/) • [Email](mailto:your.email@example.com)
+
+---
+
+⭐ **If you found this useful, feel free to star the repo and share your feedback!**
+
