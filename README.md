@@ -62,7 +62,14 @@ Covid19_Capstone_Project/
 
 ## 📌 Sample Visuals
 
-> 
+<details>
+<summary>📊 View More Plots</summary>
+
+![Bar Chart](images/bar_plot.png)  
+![Clustered Bar Chart](images/clustered_bar.png)
+![Line plot](images/line_plot.png)
+
+</details>
 
 ---
 
