@@ -84,7 +84,7 @@ Covid19_Capstone_Project/
 ## 📬 Contact
 
 **Aditi Rawat**  
-[LinkedIn](https://www.linkedin.com/in/aditirawat/) • [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/aditirawat120/) • [Email](rawataditi120@gmail.com)
 
 ---
 
